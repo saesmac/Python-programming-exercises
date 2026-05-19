@@ -1,0 +1,17 @@
+nome = input('Digite o nome do cliente: ')
+produto = input('Digite o nome do produto: ')
+valor = float(input('Digite o valor total da compra: R$ '))
+quantidade = int(input('Digite a quantidade do produto: '))
+Total = valor * quantidade
+print('--- RECIBO DE COMPRA ---')
+print(f'Cliente: {nome}')
+
+linha_produto = 'Produto'.ljust(12, ".") + produto.rjust(15)
+linha_valor = 'Valor'.ljust(12, ".") + f'R$ {valor:.2f}'.rjust(15)  
+linha_quantidade = 'Quantidade'.ljust(12, ".") + str(quantidade).rjust(15)
+linha_total = 'Total'.ljust(12, ".") + f'R$ {Total:.2f}'.rjust(15)
+print(linha_produto)
+print(linha_valor)
+print(linha_quantidade)
+print(linha_total)
+print('------------------------')
