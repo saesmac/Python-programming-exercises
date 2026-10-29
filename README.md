@@ -1,42 +1,57 @@
-<div align="center">
-💰 Controle Financeiro Familiar
-Organização de despesas compartilhadas com Python
 
+# 🐍 Exercícios de Programação em Python
 
+**Prática de lógica, algoritmos e fundamentos de programação.**
 
+[← Voltar ao meu perfil](https://github.com/saesmac)
 
+---
 
-← Voltar ao perfil
+## 📖 Sobre o projeto
 
-</div>
-Visão geral
-Projeto de aplicação desktop desenvolvido para apoiar o controle financeiro familiar, com foco em organizar despesas compartilhadas e facilitar a análise de valores por meio de uma interface gráfica.
+Este repositório reúne exercícios e atividades desenvolvidos durante meus estudos em Python, com foco no aprimoramento da lógica de programação, resolução de problemas e desenvolvimento de algoritmos.
 
-Funcionalidades
-Organização de rendas e despesas familiares.
-Cálculo proporcional de contribuições para despesas compartilhadas.
-Visualização de informações financeiras em gráficos.
-Interface desktop desenvolvida em Tkinter.
-Tecnologias
-Python para a lógica do sistema, Tkinter para a interface e Matplotlib para a visualização gráfica.
+O objetivo é registrar minha evolução na linguagem e consolidar os conhecimentos adquiridos por meio da prática.
 
-Como executar
-Clone o projeto:
+## 🎯 Objetivos
 
-git clone https://github.com/saesmac/Projeto-de-Algoritmos-Controle-Financeiro-Familiar.git
-Entre na pasta clonada e identifique o arquivo Python que inicia a aplicação.
+- Desenvolver o raciocínio lógico e a capacidade de resolver problemas.
+- Praticar conceitos fundamentais da linguagem Python.
+- Aprimorar a organização e a legibilidade do código.
+- Explorar diferentes abordagens para resolver desafios de programação.
 
-Instale as dependências conforme os imports do projeto. Se o ambiente ainda não tiver Matplotlib, normalmente é possível instalá-lo com python -m pip install matplotlib.
+## 🛠️ Tecnologias
 
-Execute o arquivo principal com python nome_do_arquivo.py, substituindo pelo nome real.
+- **Python** — linguagem utilizada nos exercícios.
+- **VS Code** — ambiente de desenvolvimento.
+- **Git e GitHub** — versionamento e organização dos estudos.
 
-Antes de publicar: confirme o nome do arquivo de entrada, requisitos e a lista exata de funcionalidades no código.
+## 📂 Como explorar o repositório
 
-Demonstração
-Adicione aqui uma captura real da interface para mostrar o aplicativo em funcionamento.
+Navegue pelos arquivos e diretórios para conhecer os exercícios disponíveis.
 
-Autor
-Desenvolvido por Eduardo Saes Macedo.
+Para executar um arquivo Python, utilize o terminal:
 
+```bash
+python nome_do_arquivo.py
+```
 
+Substitua `nome_do_arquivo.py` pelo nome do exercício que deseja executar.
 
+Alguns exercícios podem solicitar informações pelo terminal.
+
+## 🚀 Evolução dos estudos
+
+Este repositório representa minha evolução como estudante de Ciência da Computação, reunindo atividades práticas e desafios de programação.
+
+O conteúdo poderá ser expandido conforme novos conhecimentos forem adquiridos.
+
+---
+
+## 👨‍💻 Autor
+
+**Eduardo Saes Macedo**
+
+Estudante de Ciência da Computação, com formação técnica em Tecnologia da Informação.
+
+[GitHub](https://github.com/saesmac) | [Ver meus repositórios](https://github.com/saesmac?tab=repositories)
